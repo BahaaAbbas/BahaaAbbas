@@ -1,8 +1,5 @@
 # Bahaa Abbas | Full-Stack Developer & Computer Engineer
 
-![Profile Banner](https://github.com/BahaaAbbas/BahaaAbbas/blob/main/BahaaAbbas.jpg?raw=true)
-
-
 ## About Me
 Computer Engineering graduate with hands-on experience in full-stack development. Proficient in building responsive frontends using React and robust backends with Node.js and MongoDB. I bring a strong problem-solving mindset and a collaborative approach to delivering reliable, high-performance software solutions. Passionate about leveraging technology to create impactful applications, from AI-optimized models to user-friendly web and mobile platforms.
 
