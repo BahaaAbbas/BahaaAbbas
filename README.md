@@ -1,6 +1,6 @@
 # Bahaa Abbas | Full-Stack Developer & Computer Engineer
 
-![Profile Banner][(https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Portfolio)  ](https://github.com/BahaaAbbas/BahaaAbbas/blob/main/BahaaAbbas.jpg)
+![Profile Banner](https://github.com/BahaaAbbas/BahaaAbbas/blob/main/BahaaAbbas.jpg?raw=true)
 
 
 ## About Me
