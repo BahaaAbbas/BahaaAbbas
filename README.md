@@ -91,4 +91,4 @@ An-Najah National University | September 2019 – May 2024
 
 ---
 
-Thank you for visiting my GitHub portfolio! Feel free to explore my repositories, star projects that interest you, or reach out for collaboration opportunities. Let's connect and build something amazing together! 🚀
+Thank you for visiting my GitHub portfolio! Feel free to explore my repositories, star projects that interest you, or reach out for collaboration opportunities.
