@@ -66,7 +66,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 - Gained practical experience in modern frontend frameworks, responsive design, and real-world software development workflows.  
 
 ### Market Ready Developer Internship  
-**GazaSkyGeeks** | Palestine | May 2025 – Present  
+**GazaSkyGeeks** | Palestine | May 2025 – Sept 2025 
 - Developed problem-solving and team collaboration skills, alongside essential soft skills for career advancement.  
 
 ### AI Engineer  
