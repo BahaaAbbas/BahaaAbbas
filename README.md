@@ -42,7 +42,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 
 ### Travel and Accommodation Booking Platform - TravelBook
 - **Description**: A modern React-based booking application for managing hotels, rooms, bookings, and admin dashboard.
-- **Technologies**:React 19 + TypeScript, Vite, Material UI (MUI) with Dark/Light Theme, Redux Toolkit, React Query (TanStack), Formik + Yup, React Router DOM v7, Axios.
+- **Technologies**: React 19 + TypeScript, Vite, Material UI (MUI) with Dark/Light Theme, Redux Toolkit, React Query (TanStack), Formik + Yup, React Router DOM v7, Axios.
 - **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Travel-and-Accommodation-Booking-Platform)
 
 ### BahaaStockJournal
