@@ -40,6 +40,11 @@ Computer Engineering graduate with hands-on experience in full-stack development
 ## Projects
 Here are some of my key projects. Each includes a brief description, technologies used, and a link to the repository.
 
+### Travel and Accommodation Booking Platform - TravelBook
+- **Description**: A modern React-based booking application for managing hotels, rooms, bookings, and admin dashboard.
+- **Technologies**:React 19 + TypeScript, Vite, Material UI (MUI) with Dark/Light Theme, Redux Toolkit, React Query (TanStack), Formik + Yup, React Router DOM v7, Axios.
+- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Travel-and-Accommodation-Booking-Platform)
+
 ### BahaaStockJournal
 - **Description**: A full-stack trading journal application built to log trades, analyze performance, and provide insights for traders.  
 - **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
@@ -49,7 +54,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 - **Description**: A secure finance management web application that enables users to track income, expenses, and budgets with visual analytics.Implemented JWT and Google OAuth2 authentication and built RESTful APIs for transactions and budgets.  
 - **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js), JWT, Google OAuth2, Postman  
 - **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Personal-Finance-Tracker)
-- 
+
 ### E-Commerce Website (Full-Stack)
 - **Description**: A comprehensive e-commerce platform featuring product listings, user authentication, shopping cart, and payment integration.  
 - **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
