@@ -58,7 +58,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 ### E-Commerce Website (Full-Stack)
 - **Description**: A comprehensive e-commerce platform featuring product listings, user authentication, shopping cart, and payment integration.  
 - **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/E-Commerce-Website)  
+- **Repository**: [GitHub Repo]([https://github.com/BahaaAbbas/E-Commerce-Website](https://github.com/BahaaAbbas/E-Commerce))  
 
 ### Personal Finance Dashboard
 - **Description**: An interactive dashboard for visualizing income, expenses, and financial health through charts and reports.  
