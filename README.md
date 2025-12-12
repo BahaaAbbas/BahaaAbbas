@@ -63,7 +63,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 ### Personal Finance Dashboard
 - **Description**: An interactive dashboard for visualizing income, expenses, and financial health through charts and reports.  
 - **Technologies**: React, Chart.js (or similar libraries for visualization)  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Personal-Finance-Dashboard)  
+- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/BahaaFinanceDashboardProject)  
 
 ### DietWizard (Graduation Project)
 - **Description**: A Flutter-based diet-tracking mobile app with a web admin panel for managing user data and recommendations.  
