@@ -8,7 +8,8 @@ Computer Engineering graduate with hands-on experience in full-stack development
 - **Phone**: 056-979-4577  
 - **Location**: Jenin, Palestine  
 - **GitHub**: [BahaaAbbas](https://github.com/BahaaAbbas)  
-- **LinkedIn**: [bahaaabbas](https://www.linkedin.com/in/bahaaabbas)  
+- **LinkedIn**: [bahaaabbas](https://www.linkedin.com/in/bahaaabbas)
+- **Portfolio**: [bahaaabbas](https://bahaa-portfolio-bahaaabbas-projects.vercel.app/)    
 
 ## Skills & Technologies
 ### Frontend
