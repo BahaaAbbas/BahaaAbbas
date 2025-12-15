@@ -9,7 +9,8 @@ Computer Engineering graduate with hands-on experience in full-stack development
 - **Location**: Jenin, Palestine  
 - **GitHub**: [BahaaAbbas](https://github.com/BahaaAbbas)  
 - **LinkedIn**: [bahaaabbas](https://www.linkedin.com/in/bahaaabbas)
-- **Portfolio**: [bahaaabbas](https://bahaaabbas.vercel.app/)    
+- **Portfolio**: [bahaaabbas](https://bahaaabbas.vercel.app/)
+- **Domain Portfolio**: [BahaaDomainPortfolio](https://bahlander.vercel.app/)    
 
 ## Skills & Technologies
 ### Frontend
