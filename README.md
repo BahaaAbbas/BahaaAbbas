@@ -47,6 +47,13 @@ Here are some of my key projects. Each includes a brief description, technologie
 - **Technologies**: React 19 + TypeScript, Vite, Material UI (MUI) with Dark/Light Theme, Redux Toolkit, React Query (TanStack), Formik + Yup, React Router DOM v7, Axios.
 - **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Travel-and-Accommodation-Booking-Platform)
 
+### ClinicFlow – Healthcare Visit Management System
+* **Description**: A full-stack healthcare application for managing patient visits, doctor workflows, and financial tracking with strict role-based access and real-world business rules.
+* **Key Features**: Visit booking and lifecycle management, single active visit per doctor, multiple treatments with automatic total calculation, advanced search, and analytics dashboard.
+* **Technologies**: React 19, React Router, Axios, Node.js, Express.js, MongoDB Atlas, JWT (HttpOnly Cookies), bcrypt, Postman, Vercel.
+* **Live Demo**: [https://clinic-flow-frontend.vercel.app](https://clinic-flow-frontend.vercel.app)
+
+  
 ### BahaaStockJournal
 - **Description**: A full-stack trading journal application built to log trades, analyze performance, and provide insights for traders.  
 - **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
