@@ -81,7 +81,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 
 ## Professional Experience
 ### Frontend Developer Internship  
-**Foothill Technology Solutions, LLC.** | Palestine | July 2025 – Present  
+**Foothill Technology Solutions, LLC.** | Palestine | July 2025 – Jan 2026 
 - Gained practical experience in modern frontend frameworks, responsive design, and real-world software development workflows.  
 
 ### Market Ready Developer Internship  
