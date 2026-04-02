@@ -6,7 +6,7 @@ Computer Engineering graduate with hands-on experience in full-stack development
 ## Contact & Links
 - **Email**: bahaaisl566@gmail.com  
 - **Phone**: 056-979-4577  
-- **Location**: Jenin, Palestine  
+- **Location**: Amman, Jordan  
 - **GitHub**: [BahaaAbbas](https://github.com/BahaaAbbas)  
 - **LinkedIn**: [bahaaabbas](https://www.linkedin.com/in/bahaaabbas)
 - **Portfolio**: [bahaaabbas](https://bahaaabbas.vercel.app/)
@@ -81,23 +81,23 @@ Here are some of my key projects. Each includes a brief description, technologie
 
 ## Professional Experience
 ### Frontend Developer Internship  
-**Foothill Technology Solutions, LLC.** | Palestine | July 2025 – Jan 2026 
+**Foothill Technology Solutions, LLC.** | July 2025 – Jan 2026 
 - Gained practical experience in modern frontend frameworks, responsive design, and real-world software development workflows.  
 
 ### Market Ready Developer Internship  
-**GazaSkyGeeks** | Palestine | May 2025 – Sept 2025 
+**GazaSkyGeeks** | May 2025 – Sept 2025 
 - Developed problem-solving and team collaboration skills, alongside essential soft skills for career advancement.  
 
 ### AI Engineer  
-**Fratello Software House** | Nablus, Palestine | November 2024 – February 2025  
+**Fratello Software House** | November 2024 – February 2025  
 - Optimized AI models using machine learning and deep learning techniques for high performance and real-world accuracy.  
 
 ### Frontend Development Intern (ReactJS)  
-**Palsoft** | Palestine | September 2024 – February 2025  
+**Palsoft** | September 2024 – February 2025  
 - Developed responsive web applications using React.js, with a focus on performance optimization and component-based architecture.  
 
 ### NodeJS Backend Developer  
-**Orienteed** | Nablus, Palestine | February 2024 – May 2024  
+**Orienteed** | February 2024 – May 2024  
 - Built and maintained RESTful APIs using Node.js, ensuring efficient database integration and secure data handling.  
 
 ## Education
