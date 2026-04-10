@@ -5,7 +5,7 @@ Computer Engineering graduate with hands-on experience in full-stack development
 
 ## Contact & Links
 - **Email**: bahaaisl566@gmail.com  
-- **Phone**: 056-979-4577  
+- **Phone**: +966 536840984  
 - **Location**: Amman, Jordan  
 - **GitHub**: [BahaaAbbas](https://github.com/BahaaAbbas)  
 - **LinkedIn**: [bahaaabbas](https://www.linkedin.com/in/bahaa-hajahmad-0096123b2)
