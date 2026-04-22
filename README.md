@@ -53,7 +53,7 @@ Here are some of my key projects. Each includes a brief description, technologie
 **Features shipped:** Role-based access control, single active visit per doctor enforcement, advanced patient search, JWT auth with HTTPOnly cookies.  
 **Stack:** React 19, Node.js, Express.js, MongoDB Atlas, JWT, bcrypt, Vercel  
 
-## TravelBook — Travel & Accommodation Booking Platform — https://github.com/BahaaAbbas/Travel-and-Accommodation Booking-Platform
+## TravelBook — Travel & Accommodation Booking Platform — https://github.com/BahaaAbbas/Travel-and-Accommodation-Booking-Platform
 **What I built:** Full booking application with hotel management, room availability, reservation flows, and an admin dashboard with dark/light theme.  
 **Stack:** React 19 + TypeScript, Vite, Redux Toolkit, TanStack Query, Material UI, React Router DOM v7, Axios  
 
