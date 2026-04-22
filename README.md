@@ -42,63 +42,41 @@ Computer Engineering graduate with hands-on experience in full-stack development
 ## Projects
 Here are some of my key projects. Each includes a brief description, technologies used, and a link to the repository.
 
-### Travel and Accommodation Booking Platform - TravelBook
-- **Description**: A modern React-based booking application for managing hotels, rooms, bookings, and admin dashboard.
-- **Technologies**: React 19 + TypeScript, Vite, Material UI (MUI) with Dark/Light Theme, Redux Toolkit, React Query (TanStack), Formik + Yup, React Router DOM v7, Axios.
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Travel-and-Accommodation-Booking-Platform)
+## devitnes.com — Premium Domain Portfolio Platform — https://devitnes.com
+**What I built:** A full product, domain marketplace with dynamic pricing, AI chat assistant, GA4 analytics, and a complete payment system, owned end to end.  
+**Features shipped:** Dodo Payments integration, HTTPOnly cookie-based session security, multi-tenant domain routing on Vercel, AI chat widget, mobile performance optimization.  
+**Stack:** Next.js, Supabase, Gemini API, Dodo Payments, Tailwind CSS, Vercel  
 
-### ClinicFlow – Healthcare Visit Management System
-* **Description**: A full-stack healthcare application for managing patient visits, doctor workflows, and financial tracking with strict role-based access and real-world business rules.
-* **Key Features**: Visit booking and lifecycle management, single active visit per doctor, multiple treatments with automatic total calculation, advanced search, and analytics dashboard.
-* **Technologies**: React 19, React Router, Axios, Node.js, Express.js, MongoDB Atlas, JWT (HttpOnly Cookies), bcrypt, Postman, Vercel.
-* **Live Demo**: [https://clinic-flow-frontend.vercel.app](https://clinic-flow-frontend.vercel.app)
+---
 
-  
-### BahaaStockJournal
-- **Description**: A full-stack trading journal application built to log trades, analyze performance, and provide insights for traders.  
-- **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/BahaaStockJournal)  
+## ClinicFlow — Healthcare Visit Management System — https://clinic-flow-frontend.vercel.app
+**What I built:** End-to-end healthcare platform: visit booking and lifecycle management, doctor workflows, automatic billing calculation across multiple treatments, and an analytics dashboard, built solo.  
+**Features shipped:** Role-based access control, single active visit per doctor enforcement, advanced patient search, JWT auth with HTTPOnly cookies.  
+**Stack:** React 19, Node.js, Express.js, MongoDB Atlas, JWT, bcrypt, Vercel  
 
-### Personal Finance Tracker
-- **Description**: A secure finance management web application that enables users to track income, expenses, and budgets with visual analytics.Implemented JWT and Google OAuth2 authentication and built RESTful APIs for transactions and budgets.  
-- **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js), JWT, Google OAuth2, Postman  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/Personal-Finance-Tracker)
+---
 
-### E-Commerce Website (Full-Stack)
-- **Description**: A comprehensive e-commerce platform featuring product listings, user authentication, shopping cart, and payment integration.  
-- **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/E-Commerce)  
+## TravelBook — Travel & Accommodation Booking Platform — https://github.com/BahaaAbbas/Travel-and-Accommodation Booking-Platform
+**What I built:** Full booking application with hotel management, room availability, reservation flows, and an admin dashboard with dark/light theme.  
+**Stack:** React 19 + TypeScript, Vite, Redux Toolkit, TanStack Query, Material UI, React Router DOM v7, Axios  
 
-### Personal Finance Dashboard
-- **Description**: An interactive dashboard for visualizing income, expenses, and financial health through charts and reports.  
-- **Technologies**: React, Chart.js 
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/BahaaFinanceDashboardProject)  
+---
 
-### DietWizard (Graduation Project)
-- **Description**: A Flutter-based diet-tracking mobile app with a web admin panel for managing user data and recommendations.  
-- **Technologies**: Flutter (Mobile), Node.js (Backend), MongoDB/Firebase (Database)  
-- **Repository**: [GitHub Repo](https://github.com/BahaaAbbas/DietWizard)  
+## BahaaStockJournal — Trading Journal Application — https://github.com/BahaaAbbas/BahaaStockJournal
+**What I built:** Full-stack app to log trades, track performance metrics, and surface insights for active traders.  
+**Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)  
 
-## Professional Experience
-### Frontend Developer Internship  
-**Foothill Technology Solutions, LLC.** | July 2025 – Jan 2026 
-- Gained practical experience in modern frontend frameworks, responsive design, and real-world software development workflows.  
+---
 
-### Market Ready Developer Internship  
-**GazaSkyGeeks** | May 2025 – Sept 2025 
-- Developed problem-solving and team collaboration skills, alongside essential soft skills for career advancement.  
+## Personal Finance Tracker — https://github.com/BahaaAbbas/Personal-Finance-Tracker
+**What I built:** Secure finance management app with income/expense tracking, budget management, visual analytics, and dual authentication (JWT + Google OAuth2).  
+**Stack:** MERN Stack, JWT, Google OAuth2, Postman  
 
-### AI Engineer  
-**Fratello Software House** | November 2024 – February 2025  
-- Optimized AI models using machine learning and deep learning techniques for high performance and real-world accuracy.  
+---
 
-### Frontend Development Intern (ReactJS)  
-**Palsoft** | September 2024 – February 2025  
-- Developed responsive web applications using React.js, with a focus on performance optimization and component-based architecture.  
-
-### NodeJS Backend Developer  
-**Orienteed** | February 2024 – May 2024  
-- Built and maintained RESTful APIs using Node.js, ensuring efficient database integration and secure data handling.  
+## DietWizard — https://github.com/BahaaAbbas/DietWizard
+**What I built:** Flutter-based diet tracking mobile app with a web admin panel for managing user data and recommendations.  
+**Stack:** Flutter (Mobile), Node.js (Backend), MongoDB/Firebase (Database)  
 
 ## Education
 **B.Sc. in Computer Engineering**  
