@@ -47,32 +47,26 @@ Here are some of my key projects. Each includes a brief description, technologie
 **Features shipped:** Dodo Payments integration, HTTPOnly cookie-based session security, multi-tenant domain routing on Vercel, AI chat widget, mobile performance optimization.  
 **Stack:** Next.js, Supabase, Gemini API, Dodo Payments, Tailwind CSS, Vercel  
 
----
 
 ## ClinicFlow — Healthcare Visit Management System — https://clinic-flow-frontend.vercel.app
 **What I built:** End-to-end healthcare platform: visit booking and lifecycle management, doctor workflows, automatic billing calculation across multiple treatments, and an analytics dashboard, built solo.  
 **Features shipped:** Role-based access control, single active visit per doctor enforcement, advanced patient search, JWT auth with HTTPOnly cookies.  
 **Stack:** React 19, Node.js, Express.js, MongoDB Atlas, JWT, bcrypt, Vercel  
 
----
-
 ## TravelBook — Travel & Accommodation Booking Platform — https://github.com/BahaaAbbas/Travel-and-Accommodation Booking-Platform
 **What I built:** Full booking application with hotel management, room availability, reservation flows, and an admin dashboard with dark/light theme.  
 **Stack:** React 19 + TypeScript, Vite, Redux Toolkit, TanStack Query, Material UI, React Router DOM v7, Axios  
 
----
 
 ## BahaaStockJournal — Trading Journal Application — https://github.com/BahaaAbbas/BahaaStockJournal
 **What I built:** Full-stack app to log trades, track performance metrics, and surface insights for active traders.  
 **Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)  
 
----
 
 ## Personal Finance Tracker — https://github.com/BahaaAbbas/Personal-Finance-Tracker
 **What I built:** Secure finance management app with income/expense tracking, budget management, visual analytics, and dual authentication (JWT + Google OAuth2).  
 **Stack:** MERN Stack, JWT, Google OAuth2, Postman  
 
----
 
 ## DietWizard — https://github.com/BahaaAbbas/DietWizard
 **What I built:** Flutter-based diet tracking mobile app with a web admin panel for managing user data and recommendations.  
